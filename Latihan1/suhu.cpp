@@ -22,7 +22,7 @@ cout<<"FAHRENHEIT  =  "<<fahr<<endl;
 cout<<"REAMUR      =  "<<rea<<endl;
 cout<<"KELVIN      =  "<<kelv<<endl;
 cout<<"=============================================\n";
-cout<<"Enter 1x Again to Exit\n";
+cout<<"Press Enter 1x Again to Exit\n";
 getch();
  
 }
