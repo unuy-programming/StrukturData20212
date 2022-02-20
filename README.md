@@ -8,6 +8,6 @@ Im stores your files in your browser, which means all your files are automatical
 1. Join This using this link [replit StrukturData20212 Class](https://replit.com/@FeriFebriaFebri/StrukturData20212#README.md).
 2. Create account
 
-3. **Fork repl** ⇒ see ![This is an image](../blob/main/1.PNG)
+3. **Fork repl** ⇒ see ![This is an image](../main/1.PNG)
 4. After that you can make changes at replit
-5. After make changes you can **commit** to publish your changes and make **Online** your work. ==> see  ![This is an image](../blob/main/2.PNG)
+5. After make changes you can **commit** to publish your changes and make **Online** your work. ==> see  ![This is an image](../main/2.PNG)
