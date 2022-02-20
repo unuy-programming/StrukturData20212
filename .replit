@@ -1,0 +1,8 @@
+run="""
+clear
+echo "Which program would you like to run?"
+read program
+g++ -o $program ${program}.cpp && \
+./$program 
+rm $program
+"""
