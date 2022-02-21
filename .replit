@@ -1,6 +1,6 @@
 run="""
 clear
-echo "Which program would you like to run?"
+echo "Program yang mana yang ingin anda jalankan?"
 read program
 g++ -o $program ${program}.cpp && \
 ./$program 
